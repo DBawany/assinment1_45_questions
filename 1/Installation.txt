@@ -1,0 +1,19 @@
+NodeJS Installation
+go to https://nodejs.org/en download the installer
+After installation, open a command prompt and type
+node -v
+npm -v
+
+Git Installation
+go to https://git-scm.com/ download the installer
+After installation, open a command prompt and type
+git --version
+
+TypeScript Installation
+open a command prompt and type 
+npm install --global typescript@5.0.2
+After installation, type
+tsc --version
+
+VS Code Installation
+https://code.visualstudio.com/download
